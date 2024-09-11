@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "gFk77GK/+TGPht0z/YmGG8M/n/U0pcB9ia56ckp4j8diidIv+UDXYEzv9rCRiVNLnZdVFahqwSPXC4baqeHnmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kasp_me\\Desktop\\temp\\YandexIdTest\\YandexId_JWT_Auth\\YandexIdTest\\YandexIdTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kasp_me\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.2\\microsoft.aspnetcore.openapi.8.0.2.nupkg.sha512",
+    "C:\\Users\\kasp_me\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\kasp_me\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\kasp_me\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\kasp_me\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\kasp_me\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\kasp_me\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\kasp_me\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
