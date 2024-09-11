@@ -1,5 +1,5 @@
 # OAUTH через YandexId
-## Пример использования аутентификация в дотнет приложении с помощью [YandexId](https://oauth.yandex.ru/ ).
+## Пример использования аутентификации в дотнет приложении с помощью [YandexId](https://oauth.yandex.ru/ ).
 
 - Создать [тут](https://oauth.yandex.ru/client/new/id) новое приложение
 - Скопировать clientId и clientSecret своего приложения на строки 23 и 24 этого приложения (Program.cs)
